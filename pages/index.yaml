@@ -78,7 +78,10 @@ body:       |
 
             <dt><i class="fa fa-home"></i> Location</dt>
             <dd>104 Bond Hall</dd>
-            
+
+            <dt><i class="fa fa-video-camera"></i> Zoom Meeting</dt>
+            <dd><a href="https://notredame.zoom.us/j/97929879725">979 2987 9725</a></dd>
+
             <dt><i class="fa fa-envelope"></i> Mailing List (Class)</dt>
             <dd><a href="mailto:fa21-cse-30341-01-group@nd.edu">fa21-cse-30341-01-group@nd.edu</a></dd>
 
@@ -102,7 +105,7 @@ body:       |
 
             <dt><i class="fa fa-life-ring"></i> Office Hours</dt>
             <dd><strong>M/T/W/TH</strong> 2:00 PM - 3:30 PM, and by <strong>appointment</strong></dd>
-            
+
             <dt><i class="fa fa-briefcase"></i> Office Location</dt>
             <dd>326D Cushing Hall</dd>
         </dl>
@@ -480,7 +483,7 @@ body:       |
             <p>For the assignments in this class, you may discuss with other
             students and consult printed and online resources. You may quote
             from books and online sources as long as you <b>cite them properly</b>.
-            However, you may <b>not</b> look at another student's solution, 
+            However, you may <b>not</b> look at another student's solution,
             and you may not copy any significant portions of other's solutions.</p>
             <p>The following table summarizes how you may work with other
             students and use print/online sources:</p>
@@ -513,7 +516,7 @@ body:       |
             </div>
         </div>
     </div>
-    
+
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
             <div class="alert alert-warning">
