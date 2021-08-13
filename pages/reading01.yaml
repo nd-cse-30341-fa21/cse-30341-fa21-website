@@ -25,7 +25,7 @@ body:       |
     [Reading 01 Quiz].
 
     </div>
-    
+
     <img src="static/img/house.png" class="pull-right" style="margin-left: 10px;">
 
     ## Course Overview
@@ -65,7 +65,7 @@ body:       |
 
     To explore these topics and apply the concepts learned in class, you will
     implement **four programming projects** throughout the semester: implement a
-    [scheduling] process queue, implement a [message bus], implement [malloc], 
+    [scheduling] process queue, implement a [message bus], implement [malloc],
     and implement a [filesystem].  These projects will require some design work, extensive
     testing, and utilization of the skills you learned in both [CSE 20289
     Systems Programming] and **CSE 20312 Data Structures**.
@@ -91,9 +91,9 @@ body:       |
     [shell]: https://en.wikipedia.org/wiki/Unix_shell
     [scheduling]: https://en.wikipedia.org/wiki/Scheduling_(computing)#SCHEDULER
     [HTTP]: https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
-    
+
     ## Task 1: Slack
-    
+
     For communication outside of our meeting time, we will be using [Slack],
     specifically the `#cse-30341-fa21` channel:
 
@@ -117,7 +117,7 @@ body:       |
       `#commons` or `#jobs` or even `#lug`.
 
     </div>
-    
+
     ## Task 2: GitHub
 
     All of your work will be submitted to [GitHub] using [git]. Your third task
@@ -142,7 +142,7 @@ body:       |
         <div class="alert alert-danger" markdown="1">
         **Note**, that [GitHub] has recently shutdown [password authentication].
         </div>
-        
+
         To remotely access your repository from the command-line, you have two options:
 
         1. [Setup a Personal Access Token]: With this method, [GitHub] will
@@ -185,7 +185,7 @@ body:       |
                 # Add the following to your config (replace $NETID with your netid)
                 $ $EDITOR ~/.ssh/config
                 Host github.com
-                        User git 
+                        User git
                         Hostname github.com
                         PreferredAuthentications publickey
                         IdentityFile /escnfs/home/$NETID/.ssh/id_rsa
@@ -232,7 +232,7 @@ body:       |
         [An introduction to the Linux boot and startup
         processes](https://opensource.com/article/17/2/linux-boot-and-startup),
         and [Systemd Boot Process a Close Look in Linux](https://linoxide.com/linux-how-to/systemd-boot-process/).
-    
+
     <div class="alert alert-success" markdown="1">
     **Note**: Don't worry if you don't get the readings done by Tuesday, as
     this is the first week of class.
@@ -257,7 +257,7 @@ body:       |
     ### Program
 
     In addition to a [dredd] quiz, each reading will also have a short [C]
-    program associated with each assignment.  For this week, you are to modify `program.c` in `reading01` 
+    program associated with each assignment.  For this week, you are to modify `program.c` in `reading01`
     to print out `True` or `False` for each of the following statements:
 
     1. Students cannot drop any readings.
@@ -281,14 +281,14 @@ body:       |
 
         :::bash
         $ make test-program
-        gcc -Wall -g -std=gnu99 -o program program.c 
+        gcc -Wall -g -std=gnu99 -o program program.c
         curl -sLO https://raw.githubusercontent.com/nd-cse-30341-fa21/cse-30341-fa21-assignments/master/reading01/test_program.sh
         chmod +x test_program.sh
         ./test_program.sh
-        Checking reading01 program ... 
+        Checking reading01 program ...
            Score 3.00 / 3.00
           Status Success
-    
+
     ### Submission
 
     To check your quiz answers, you will need create a `answers.json` or
@@ -435,7 +435,7 @@ body:       |
             :::bash
             $ git add answers.json                # Add answers.json to staging area
             $ git commit -m "Reading 01: Quiz"    # Commit quiz
-            
+
             $ git add program.c                   # Add program.c to staging area
             $ git commit -m "Reading 01: Program" # Commit program
 
