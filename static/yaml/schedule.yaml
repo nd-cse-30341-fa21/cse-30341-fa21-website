@@ -14,6 +14,9 @@
 
       - date:           Thu 08/26
         topics:         OS Taxonomy, History, Themes
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1yq4jXprlvWTCclLp9gCeUm7Gse61YNrslTerM8izucg/edit?usp=sharing
 
 - name:     System Calls, Processes
   days:
