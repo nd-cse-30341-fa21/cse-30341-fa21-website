@@ -32,6 +32,10 @@
 
       - date:           Thu 09/02
         topics:         Processes
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1h5OpXcFYoV_albuBxhuzKCOjfs8H4OGa8MNcV6XHxSE/edit?usp=sharing
+
 
 - name:     Scheduling
   days:
