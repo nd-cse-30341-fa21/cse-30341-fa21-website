@@ -25,6 +25,8 @@
 - name:     Nora Tucker
   netid:    ntucker2
   github:   ntucker2
+  conflicts:
+    - mcampb24
 
 - name:     Paul Gierl
   netid:    pgierl
