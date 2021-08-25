@@ -212,7 +212,7 @@ body:       |
          program Makefile README.md program.c asdf (valgrind)         ... Success
          program Makefile README.md /bin/ls /bin/bash                 ... Success
          program Makefile README.md /bin/ls /bin/bash (valgrind)      ... Success
-           Score 3.00
+           Score 3.00 / 3.00
           Status Success
 
         $ git add program.c                   # Add program.c to staging area
