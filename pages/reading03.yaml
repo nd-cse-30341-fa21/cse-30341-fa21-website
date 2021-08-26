@@ -198,7 +198,8 @@ body:       |
           Status Success
 
         $ git add program.c                   # Add program.c to staging area
-        $ git commit -m "Reading 03: Quiz"    # Commit work
+        $ git add Makefile                    # Add Makefile to staging area
+        $ git commit -m "Reading 03: Code"    # Commit work
 
         $ git push -u origin reading03        # Push branch to GitHub
 
