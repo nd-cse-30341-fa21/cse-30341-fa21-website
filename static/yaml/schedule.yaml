@@ -77,6 +77,9 @@
       
       - date:           Tue 09/16
         topics:         Threads
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1dWUiUdvqhoNmM2ynsEQLi2eSAJX9D7e0CPg88CPqR6s/edit?usp=sharing
       
 - name:     Locks, Condition Variables
   days:
