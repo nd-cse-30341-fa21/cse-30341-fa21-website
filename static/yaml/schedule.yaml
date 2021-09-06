@@ -71,6 +71,9 @@
         topics:         Events
         assignments:
           - Reading 04
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1x1i0JsuBEWgo13dmzljxq2TqXrGLBfa_oZ7OwHU_940/edit?usp=sharing
       
       - date:           Tue 09/16
         topics:         Threads
