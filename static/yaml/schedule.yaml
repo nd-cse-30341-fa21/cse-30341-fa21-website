@@ -89,6 +89,9 @@
         topics:         Locks
         assignments:
           - Reading 05
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/19EvmHEsi7cxrpy1JDCDeMElYMhdjTOTFCDz2MHQQulo/edit?usp=sharing
 
       - date:           Thu 09/23
         topics:         Condition Variables
