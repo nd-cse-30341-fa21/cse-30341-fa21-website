@@ -95,6 +95,9 @@
 
       - date:           Thu 09/23
         topics:         Condition Variables
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1RSW7Lk1kykQSfvk2XdEjTkReplxw_cZT67JDteKtBF0/edit?usp=sharing
 
 - name:     Semaphores, Structures
   days:
@@ -102,9 +105,6 @@
         topics:         Semaphores
         assignments:
           - Reading 06
-        items:
-          - name:       Slides
-            link:       https://docs.google.com/presentation/d/1RSW7Lk1kykQSfvk2XdEjTkReplxw_cZT67JDteKtBF0/edit?usp=sharing
 
       - date:           Thu 09/30
         topics:         Structures
