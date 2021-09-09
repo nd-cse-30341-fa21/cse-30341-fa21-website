@@ -19,8 +19,8 @@ body:       |
 
     #### <i class="fa fa-search"></i> TL;DR
 
-    For this reading assignment, you are to read about [semaphores] and
-    [deadlock], and submit your responses to the [Reading 06 Quiz].
+    For this reading assignment, you are to read about [semaphores] and submit
+    your responses to the [Reading 06 Quiz].
 
     </div>
 
@@ -176,7 +176,7 @@ body:       |
             return (void *)failures;
         }
 
-    This [thread] function while repeatedly pop from the `Queue` until it
+    This [thread] function will repeatedly pop from the `Queue` until it
     reaches a `SENTINEL` value.  For each value popped from the `Queue`, the
     [thread] should compute the [sha1sum] of the `path` and track if there are
     any failures.  At the end, the [thread] should return the number of failed
