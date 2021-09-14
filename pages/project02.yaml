@@ -302,7 +302,7 @@ body:       |
 
     5. Must properly **manage resources** (ie. no resource leaks).
 
-    <div class="alert alert-success" markdown="1">
+    <div class="alert alert-info" markdown="1">
     #### <i class="fa fa-code"></i> Multiplexing I/O
 
     To allow for reading and writing to the terminal at the same time, you
@@ -332,9 +332,6 @@ body:       |
     The exact nature of the messages exchanged between the clients is up to
     you.  However, the **chat application** must utilize your **client
     library** and must **utilize multiple [threads]** correctly.
-    </div>
-
-    <div class="alert alert-success" markdown="1">
     </div>
 
     ## Deliverables
