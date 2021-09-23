@@ -106,6 +106,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1RSW7Lk1kykQSfvk2XdEjTkReplxw_cZT67JDteKtBF0/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1215faad-9426-44d2-b6af-adac01058e86
 
 - name:     Semaphores, Structures
   days:
