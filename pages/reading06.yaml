@@ -173,7 +173,7 @@ body:       |
                 }
             }
             ...
-            Push SENTINEL into q
+            queue_push(q, q->sentinel);
             return (void *)failures;
         }
 
