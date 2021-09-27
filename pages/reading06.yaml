@@ -173,6 +173,7 @@ body:       |
                 }
             }
             ...
+            Push SENTINEL into q
             return (void *)failures;
         }
 
@@ -197,10 +198,11 @@ body:       |
             # Producer: send work to queue
             For each argument:
                 Push argument into q
+                
+            Push SENTINEL into q
 
             # Clean up thread pool
             For each thread:
-                Push SENTINEL into q
                 Join thread[i] and aggregate failures.
 
     [processes]:        https://en.wikipedia.org/wiki/Process_(computing)
