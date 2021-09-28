@@ -118,6 +118,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1-twhOBPoprQUJBaZ6aXYaksOtgUQ7FnUrZi_CMEEb_4/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b330f495-931e-4bae-8100-adb10101d070
 
       - date:           Thu 09/30
         topics:         Structures
