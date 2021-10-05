@@ -123,6 +123,9 @@
 
       - date:           Thu 09/30
         topics:         Structures
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46341b99-d7d1-4457-991a-adb30103613d
         
 - name:     Concurrency Bugs
   days:
@@ -133,6 +136,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1xzKuumUQKcQrkx8zM7fRsqP01CgGPpAi1RN4zSV-el0/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12152d21-2088-43dc-abc3-adb800fad819
 
       - date:           Thu 10/07
         topics:         Case Studies
