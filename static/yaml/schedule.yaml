@@ -141,6 +141,9 @@
 
       - date:           Thu 10/07
         topics:         Case Studies
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5c724301-6b6f-4490-aece-adba00fabf62
 
       - date:           Sat 10/09
         assignments:
