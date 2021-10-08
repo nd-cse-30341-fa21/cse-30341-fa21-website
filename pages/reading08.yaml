@@ -141,8 +141,9 @@ body:       |
         $ $EDITOR program.c                   # Edit your program.c file
 
         $ make test-program                   # Check reading03 program
-        Testing reading08 program...
-           Score 3.00
+        Checking reading08 program...
+           Score 3.00 / 3.00
+          Status Success
 
         $ git add Makefile                    # Add Makefile to staging area
         $ git add program.c                   # Add program.c to staging area
