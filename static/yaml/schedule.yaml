@@ -156,6 +156,8 @@
       - date:           Tue 10/12
         topics:         Review
         items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1xNZoFT5Fj9qiEOecOiPN9BwVoPDoTMV_sYVoOS86QM0/edit?usp=sharing
           - name:       Panopto
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9d8c83ed-e481-4f8f-acea-adbf00f9e515
 
