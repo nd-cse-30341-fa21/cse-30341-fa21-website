@@ -155,6 +155,9 @@
   days:
       - date:           Tue 10/12
         topics:         Review
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9d8c83ed-e481-4f8f-acea-adbf00f9e515
 
       - date:           Thu 10/14
         topics:         ''
