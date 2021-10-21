@@ -176,6 +176,9 @@
         topics:         Address Space, Translation
         assignments:
           - Reading 08
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1EG5F44Fnpvxuj914yR24TOQPEuqxSLEc4rxL8coVL0A/edit?usp=sharing
 
       - date:           Thu 10/28
         topics:         Free-Space Management
