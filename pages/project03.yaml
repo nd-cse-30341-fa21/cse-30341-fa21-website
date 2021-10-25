@@ -445,9 +445,9 @@ body:       |
           Testing libmalloc-wf.so                ... Success
 
         Running run_test_05.sh
-          Timing libmalloc-ff.so                ... 0m1.274s
-          Timing libmalloc-bf.so                ... 0m2.066s
-          Timing libmalloc-wf.so                ... 0m2.062s
+          Timing libmalloc-ff.so                 ... 0m1.274s
+          Timing libmalloc-bf.so                 ... 0m2.066s
+          Timing libmalloc-wf.so                 ... 0m2.062s
 
         Running run_test_06.sh
           Testing libmalloc-ff.so (cat tests/test_00.c tests/test_01.c tests/test_02.c tests/test_03.
