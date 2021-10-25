@@ -182,6 +182,9 @@
 
       - date:           Thu 10/28
         topics:         Free-Space Management
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/194sFew_5BBVpqNDkVnhQ-O_9AsQLoPJ1c5PMBMLZBO8/edit?usp=sharing
 
 - name:     Segmentation, Paging
   days:
