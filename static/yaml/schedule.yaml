@@ -179,6 +179,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1EG5F44Fnpvxuj914yR24TOQPEuqxSLEc4rxL8coVL0A/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eab6f6f4-3f82-4865-807d-adcd00fdb3c5
 
       - date:           Thu 10/28
         topics:         Free-Space Management
