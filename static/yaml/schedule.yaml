@@ -190,10 +190,10 @@
           - name:       Panopto
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea995765-19fc-43b7-86e6-adcf00ffd022
 
-- name:     Segmentation, Paging
+- name:     Heap Management, Segmentation
   days:
       - date:           Tue 11/02
-        topics:         Segmentation
+        topics:         Heap Management
         assignments:
           - Reading 09
         items:
@@ -203,15 +203,17 @@
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65c39988-a7d6-4543-80ab-add4010026a7
 
       - date:           Thu 11/04
-        topics:         Paging
+        topics:         Segmentation
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1emdtovkmaj_ULjktL5TLmQYdjJIlcNoWq3mvLG0RIxA/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d3d91080-987e-4cf9-b5d2-add600fe8c76
 
-- name:     Caching, Swapping
+- name:     Paging, Swapping
   days:
       - date:           Tue 11/09
-        topics:         TLBs, Page Tables
+        topics:         Paging
         assignments:
           - Reading 10
         items:
