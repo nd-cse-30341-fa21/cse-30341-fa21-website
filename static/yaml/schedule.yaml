@@ -254,6 +254,9 @@
         topics:         File Systems
         assignments:    
           - Reading 12
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1hrzyxFE2Kpz-twqL_Y98f_tkXHQemNbpL6V3UAa7UZE/edit?usp=sharing
 
       - date:           Thu 11/25
         topics:         Thanksgiving
@@ -264,9 +267,15 @@
         topics:         LFS, FFS
         assignments:    
           - Reading 13
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1xqgIlOShiRhrInk1J8Bjeo2zsB2ErrcobFSawTVV5kk/edit?usp=sharing
 
       - date:           Thu 12/02
         topics:         Consistency, Integrity
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1xfQ-cDWRx3tINjgHMZw93o0-dSDVA-sZOypSGsfJYRA/edit?usp=sharing
       
       - date:           Sat 12/04
         assignments:
