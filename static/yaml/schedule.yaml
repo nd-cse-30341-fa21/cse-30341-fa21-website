@@ -238,9 +238,15 @@
         topics:         I/O Devices
         assignments:
           - Reading 11
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1-HfF3hF5IsEfoWTYg1_a7jlWkQ6jdkho7C5W3C-A434/edit?usp=sharing
 
       - date:           Thu 11/20
         topics:         RAID
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/16hRrUC-zIgJQBoI_vJipDixgcCtMOWFjOvwgmvDEP6Q/edit?usp=sharing
 
 - name:     File Systems
   days:
