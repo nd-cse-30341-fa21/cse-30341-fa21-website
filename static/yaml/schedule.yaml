@@ -236,7 +236,7 @@
       
 - name:     Devices
   days:
-      - date:           Tue 11/18
+      - date:           Tue 11/16
         topics:         I/O Devices
         assignments:
           - Reading 11
@@ -244,7 +244,7 @@
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1-HfF3hF5IsEfoWTYg1_a7jlWkQ6jdkho7C5W3C-A434/edit?usp=sharing
 
-      - date:           Thu 11/20
+      - date:           Thu 11/18
         topics:         RAID
         items:
           - name:       Slides
