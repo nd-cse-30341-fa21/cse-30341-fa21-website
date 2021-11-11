@@ -197,8 +197,6 @@
         assignments:
           - Reading 09
         items:
-          - name:       Slides
-            link:       https://docs.google.com/presentation/d/1IhHxBr5-U1wgZ6TVZcdJNHqE9_ZnrK8vTAPkOdSKzxs/edit?usp=sharing
           - name:       Panopto
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65c39988-a7d6-4543-80ab-add4010026a7
 
@@ -206,11 +204,11 @@
         topics:         Segmentation
         items:
           - name:       Slides
-            link:       https://docs.google.com/presentation/d/1emdtovkmaj_ULjktL5TLmQYdjJIlcNoWq3mvLG0RIxA/edit?usp=sharing
+            link:       https://docs.google.com/presentation/d/1IhHxBr5-U1wgZ6TVZcdJNHqE9_ZnrK8vTAPkOdSKzxs/edit?usp=sharing
           - name:       Panopto
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d3d91080-987e-4cf9-b5d2-add600fe8c76
 
-- name:     Paging, Swapping
+- name:     Paging
   days:
       - date:           Tue 11/09
         topics:         Paging
@@ -218,15 +216,17 @@
           - Reading 10
         items:
           - name:       Slides
-            link:       https://docs.google.com/presentation/d/1V2-zROHyIwl4Oz1P1nYe0tlAJddCR6eU-lKFt8xBpJQ/edit?usp=sharing
+            link:       https://docs.google.com/presentation/d/1emdtovkmaj_ULjktL5TLmQYdjJIlcNoWq3mvLG0RIxA/edit?usp=sharing
           - name:       Panopto
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bdec7190-3344-4d05-8a04-addb010e02d3
 
       - date:           Thu 11/11
-        topics:         Swapping
+        topics:         TLB / Multi-Level
         items:
           - name:       Slides
-            link:       https://docs.google.com/presentation/d/15VD5Av3u-JYDBm6uYR9O5SO4BGk_zFrWdJwWMxct4Fo/edit?usp=sharing
+            link:       https://docs.google.com/presentation/d/1V2-zROHyIwl4Oz1P1nYe0tlAJddCR6eU-lKFt8xBpJQ/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=78e3f18e-a699-45a1-a2bf-addd010b41e4
       
       - date:           Sat 11/13
         assignments:
@@ -237,10 +237,12 @@
 - name:     Devices
   days:
       - date:           Tue 11/16
-        topics:         I/O Devices
+        topics:         Swapping, I/O Devices
         assignments:
           - Reading 11
         items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/15VD5Av3u-JYDBm6uYR9O5SO4BGk_zFrWdJwWMxct4Fo/edit?usp=sharing
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1-HfF3hF5IsEfoWTYg1_a7jlWkQ6jdkho7C5W3C-A434/edit?usp=sharing
 
