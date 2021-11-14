@@ -172,7 +172,8 @@ body:       |
 
     As with previous projects, you are to work **individually** or in **pairs**
     to create a **library** that implements the `Disk` and `FileSystem`
-    components described above by **Tuesday, December 07, 2021**.
+    components described above by **midnight** on **Tuesday, December 07,
+    2021**.
 
     For this project, you must use [C] (not [C++]) as the implementation
     language.  Any test scripts or auxillary tools can be written in any
