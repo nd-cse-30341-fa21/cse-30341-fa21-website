@@ -281,16 +281,14 @@
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1xfQ-cDWRx3tINjgHMZw93o0-dSDVA-sZOypSGsfJYRA/edit?usp=sharing
       
-      - date:           Sat 12/04
-        assignments:
-          - Project 04
-
 - name:     "Exam 02: Virtual Memory, File Systems"
 
 - name:     Exam 02
   days:
       - date:           Tue 12/07
         topics:         Review
+        assignments:
+          - Project 04
 
       - date:           Tue 12/14
         topics:         ''
