@@ -234,33 +234,35 @@
 
 - name:     "Unit 04: File Systems"
       
-- name:     Devices
+- name:     Swapping, Devices
   days:
       - date:           Tue 11/16
-        topics:         Swapping, I/O Devices
+        topics:         Swapping
         assignments:
           - Reading 11
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/15VD5Av3u-JYDBm6uYR9O5SO4BGk_zFrWdJwWMxct4Fo/edit?usp=sharing
-          - name:       Slides
-            link:       https://docs.google.com/presentation/d/1-HfF3hF5IsEfoWTYg1_a7jlWkQ6jdkho7C5W3C-A434/edit?usp=sharing
           - name:       Panopto
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3cd35065-4b2f-42ba-850d-ade2010bd47b
 
       - date:           Thu 11/18
-        topics:         RAID
+        topics:         I/O Devices
         items:
           - name:       Slides
-            link:       https://docs.google.com/presentation/d/16hRrUC-zIgJQBoI_vJipDixgcCtMOWFjOvwgmvDEP6Q/edit?usp=sharing
+            link:       https://docs.google.com/presentation/d/1-HfF3hF5IsEfoWTYg1_a7jlWkQ6jdkho7C5W3C-A434/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9103db8b-b8bd-4b4b-a27f-ade401099bae
 
-- name:     File Systems
+- name:     RAID, File Systems
   days:
       - date:           Tue 11/23
-        topics:         File Systems
+        topics:         RAID, File Systems
         assignments:    
           - Reading 12
         items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/16hRrUC-zIgJQBoI_vJipDixgcCtMOWFjOvwgmvDEP6Q/edit?usp=sharing
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1hrzyxFE2Kpz-twqL_Y98f_tkXHQemNbpL6V3UAa7UZE/edit?usp=sharing
 
