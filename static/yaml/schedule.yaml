@@ -254,28 +254,30 @@
           - name:       Panopto
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9103db8b-b8bd-4b4b-a27f-ade401099bae
 
-- name:     RAID, File Systems
+- name:     RAID
   days:
       - date:           Tue 11/23
-        topics:         RAID, File Systems
+        topics:         RAID
         assignments:    
           - Reading 12
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/16hRrUC-zIgJQBoI_vJipDixgcCtMOWFjOvwgmvDEP6Q/edit?usp=sharing
-          - name:       Slides
-            link:       https://docs.google.com/presentation/d/1hrzyxFE2Kpz-twqL_Y98f_tkXHQemNbpL6V3UAa7UZE/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=53e2dbbd-27ee-4dd1-b4a5-ade901099501
 
       - date:           Thu 11/25
         topics:         Thanksgiving
 
-- name:     Consistency, Integrity
+- name:     File Systems, Consistency, Integrity
   days:
       - date:           Tue 11/30
-        topics:         LFS, FFS
+        topics:         File Systems, LFS, FFS
         assignments:    
           - Reading 13
         items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1hrzyxFE2Kpz-twqL_Y98f_tkXHQemNbpL6V3UAa7UZE/edit?usp=sharing
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1xqgIlOShiRhrInk1J8Bjeo2zsB2ErrcobFSawTVV5kk/edit?usp=sharing
 
