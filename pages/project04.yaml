@@ -172,7 +172,7 @@ body:       |
 
     As with previous projects, you are to work **individually** or in **pairs**
     to create a **library** that implements the `Disk` and `FileSystem`
-    components described above by **midnight** on **Tuesday, December 07,
+    components described above by **midnight** on **Thursday, December 09,
     2021**.
 
     For this project, you must use [C] (not [C++]) as the implementation
@@ -197,7 +197,7 @@ body:       |
           <td>Project description and repository are available.</td>
         </tr>
         <tr>
-          <td class="text-strong">Tuesday, December 07</td>
+          <td class="text-strong">Thursday, December 09</td>
           <td>File System due (pushed to GitHub `filesystem` branch).</td>
         </tr>
       </tbody>

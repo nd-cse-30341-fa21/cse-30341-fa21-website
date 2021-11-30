@@ -4,7 +4,7 @@
   days:
       - date:           Tue 08/24
         topics:         Syllabus, Computer Hardware, Boot Sequence
-        assignments:     
+        assignments:
           - Reading 01
         items:
           - name:       Slides
@@ -26,7 +26,7 @@
   days:
       - date:           Tue 08/31
         topics:         System Calls
-        assignments:     
+        assignments:
           - Reading 02
         items:
           - name:       Slides
@@ -62,7 +62,7 @@
             link:       https://docs.google.com/presentation/d/1jQ1Z9k6P1u0MyC6rw2wRxwa9Ce7oIPvJrTdKXjfobSc/edit?usp=sharing
           - name:       Panopto
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d0474234-ba17-4345-82ca-ad9e010317f1
-      
+
       - date:           Sat 09/11
         assignments:
           - Project 01
@@ -80,7 +80,7 @@
             link:       https://docs.google.com/presentation/d/1x1i0JsuBEWgo13dmzljxq2TqXrGLBfa_oZ7OwHU_940/edit?usp=sharing
           - name:       Panopto
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=322f5878-9893-4211-a587-ada30103a9fe
-      
+
       - date:           Tue 09/16
         topics:         Threads
         items:
@@ -88,7 +88,7 @@
             link:       https://docs.google.com/presentation/d/1dWUiUdvqhoNmM2ynsEQLi2eSAJX9D7e0CPg88CPqR6s/edit?usp=sharing
           - name:       Panopto
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ce14fa57-8a17-45b0-8158-ada500fb44da
-      
+
 - name:     Locks, Condition Variables
   days:
       - date:           Tue 09/21
@@ -126,7 +126,7 @@
         items:
           - name:       Panopto
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46341b99-d7d1-4457-991a-adb30103613d
-        
+
 - name:     Concurrency Bugs
   days:
       - date:           Tue 10/05
@@ -227,13 +227,13 @@
             link:       https://docs.google.com/presentation/d/1V2-zROHyIwl4Oz1P1nYe0tlAJddCR6eU-lKFt8xBpJQ/edit?usp=sharing
           - name:       Panopto
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=78e3f18e-a699-45a1-a2bf-addd010b41e4
-      
+
       - date:           Sat 11/13
         assignments:
           - Project 03
 
 - name:     "Unit 04: File Systems"
-      
+
 - name:     Swapping, Devices
   days:
       - date:           Tue 11/16
@@ -258,7 +258,7 @@
   days:
       - date:           Tue 11/23
         topics:         RAID
-        assignments:    
+        assignments:
           - Reading 12
         items:
           - name:       Slides
@@ -273,7 +273,7 @@
   days:
       - date:           Tue 11/30
         topics:         File Systems, LFS, FFS
-        assignments:    
+        assignments:
           - Reading 13
         items:
           - name:       Slides
@@ -286,13 +286,16 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1xfQ-cDWRx3tINjgHMZw93o0-dSDVA-sZOypSGsfJYRA/edit?usp=sharing
-      
+
 - name:     "Exam 02: Virtual Memory, File Systems"
 
 - name:     Exam 02
   days:
       - date:           Tue 12/07
         topics:         Review
+
+      - date:           Thu 12/09
+        topics:         ''
         assignments:
           - Project 04
 
