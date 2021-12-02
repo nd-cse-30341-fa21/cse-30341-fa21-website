@@ -272,7 +272,7 @@
 - name:     File Systems
   days:
       - date:           Tue 11/30
-        topics:         File Systems, LFS, FFS
+        topics:         File Systems
         assignments:
           - Reading 13
         items:
@@ -286,6 +286,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1xqgIlOShiRhrInk1J8Bjeo2zsB2ErrcobFSawTVV5kk/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e0ffe15-f617-4fac-bf94-adf20110fa9f
 
 - name:     Consistency, Integrity
   days:
